@@ -598,6 +598,25 @@ figure figcaption {
 h1, h2{
   text-align: center;
 }
-
+#form{
+  width: auto;
+  justify-self: center;
+  border: solid 2px lightgray;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 20px;
+}
+#btnform{
+  display: block;
+  text-align: end;
+  margin-right: 15px;
+}
+iframe {
+  display: flex;
+  justify-self: end;
+  width: 600px;
+  height: 300px;
+  margin-right: 180px;
+}
 
 /*# sourceMappingURL=style.css.map */
