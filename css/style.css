@@ -583,5 +583,7 @@ figure figcaption {
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #ffffff;
 }
-
+.cliqueaqui{
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
