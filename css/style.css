@@ -586,4 +586,18 @@ figure figcaption {
 .cliqueaqui{
   color: white;
 }
+
+.sobremim{
+  text-align: justify;
+}
+
+.lilium, .girassol, .astromelia, .historia{
+  text-align: justify;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+
 /*# sourceMappingURL=style.css.map */
