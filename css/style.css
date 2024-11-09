@@ -615,9 +615,11 @@ h1, h2{
 iframe {
   display: flex;
   justify-self: end;
-  width: 600px;
-  height: 300px;
-  margin-right: 180px;
+  margin-right: 11px;
+
+}
+.mapa{
+  background-color: #45c46f;
 }
 
 /*# sourceMappingURL=style.css.map */
