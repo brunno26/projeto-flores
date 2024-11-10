@@ -606,20 +606,21 @@ h1, h2{
   border-radius: 15px;
   padding: 10px;
   margin: 20px;
+  color: lightgray;
+}
+#form h2{
+  color: lightgray;
 }
 #btnform{
   display: block;
   text-align: end;
   margin-right: 15px;
 }
-iframe {
-  display: flex;
-  justify-self: end;
-  margin-right: 11px;
 
-}
 .mapa{
-  background-color: #45c46f;
+  display: flex;
+  justify-content: end;
+  margin: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
